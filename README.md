@@ -43,3 +43,5 @@ The dashboard provides actionable insights for decision-makers to optimize strat
 - **`Sales_db.sql`**: The Mysql database used as a data source for this project.   
 
 ---
+
+This is a guided project from youtube
